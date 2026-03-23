@@ -1,4 +1,5 @@
 Sistema de Gestion de Calificaciones
+
 Segundo Parcial - Programacion en C++
 Que hace?
 El programa permite registrar las calificaciones de hasta 20 estudiantes y muestra estadisticas del
